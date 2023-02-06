@@ -1,0 +1,58 @@
+_______________________________________________________________________________________
+_______________________________________________________________________________________-
+	2023-01-11 -IMPLEMENTANDO EN MI MAQUINA TODO LO DEL MASTER DE UDEMY
+C:\wamp64\www\master-fullstack
+_______________________________________________________________________________________-
+_______________________________________________________________________________________-
+logrado:
+instalacion de laravel 5.7 conviviendo en un wampserver con laravel 8 instalado y funcionando
+
+virtualhost, ver como esta en mi maquina muni - ok
+pasar los archivos del proyecto - ok
+ver la base de datos, migrar tambien - ok
+probar que funcione -ok
+
+progreso ________________________________
+
+eliminar post
+https://www.udemy.com/course/master-en-desarrollo-web-full-stack-angular-node-laravel-symfony/learn/lecture/13183516#questions/10616016
+
+problemas desde postman no toma las peticiones POST DE CATEGORIAS Y DE LOS POST - era la barra
+
+_______________________________________________________________________________________-
+pendiente - ver la version de node npm y angular - instalo la ultima
+
+_______________________________________________________________________________________-
+ANGULAR v15
+ng new blog-angular
+
+dependencias:
+
+*** bootstrap: npm install bootstrap@5.2.3
+https://getbootstrap.com/docs/5.2/getting-started/download/
+
+
+lo instale y toque los archivos json 
+instale popperjs
+
+npm i @popperjs/core
+ PENDIENTE, ver que pasa!
+
+*** jquery: npm i jquery
+https://www.npmjs.com/package/jquery
+
+*** angular-froala-wysiwyg:
+https://www.npmjs.com/package/angular-froala/v/4.0.17
+https://froala.com/wysiwyg-editor/docs/getting-started/
+video:
+https://www.youtube.com/watch?v=KWTprw7NEhc&ab_channel=AyyazTech
+
+npm i angular-froala-wysiwyg
+
+*** angular-file-uploader:
+a mano sin dependencias
+https://www.bezkoder.com/angular-15-file-upload/
+
+
+
+
